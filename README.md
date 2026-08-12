@@ -1,11 +1,11 @@
 # WordPress Developer Complete Guide
 
-> An interview preparation handbook for WordPress developers. Concepts in Roman Urdu, code and terminology in English.
+> A working reference for WordPress developers. Concepts in Roman Urdu, code and terminology in English.
 
 **Author:** Noman Nadeem ([dev-noman501](https://github.com/dev-noman501))
 **Edition:** 2.0
 **Length:** 54 pages
-**Format:** 10 chapters · 45+ practice questions · complete answer key · full mock test
+**Format:** 10 chapters · 45+ practice questions · complete answer key · full self-test
 
 ### 📘 [Download the PDF](WordPress-Developer-Complete-Guide-Noman-Nadeem.pdf) &nbsp;·&nbsp; 1.2 MB
 
@@ -30,25 +30,25 @@ Elementor and the Figma to WordPress workflow run through the later chapters: th
 
 ## How it is meant to be used
 
-This is not a book to read once. Every chapter follows the same structure so any single topic can be revised on its own:
+This is not a book to read once. Every chapter follows the same structure, so any single topic can be revised on its own:
 
 - **CODE** — copy-paste ready examples, with the comments written in Roman Urdu inside the code itself
-- **INTERVIEW QUESTION** — phrased the way an interviewer actually asks it
+- **QUESTION** — the concept restated as a question, the way it actually comes up in a technical conversation
 - **Practice test** — at the end of every chapter, with the full answer key at the back
 
-It is designed to be read in sequence, beginner through to intermediate and advanced, but each chapter also stands alone as a reference.
+It is designed to be read in sequence, beginner through to intermediate and advanced, but each chapter also stands alone as a reference you can jump into.
 
-The final section is a preparation checklist: it walks through explaining your own two or three projects in a **Problem → Solution → Result** format, which is usually what an interview actually turns on.
+The final section is a checklist for explaining your own two or three projects in a **Problem → Solution → Result** format, which is usually what a technical conversation turns on.
 
 ## Who it is for
 
-- Developers preparing for a WordPress interview
-- Anyone revising the fundamentals before a client call or a technical test
+- Developers who want the WordPress fundamentals in one place instead of scattered across forty tabs
+- Anyone revising before a client call or a technical discussion
 - Self-taught developers who know how to build but struggle to explain the why
 
 ## Licence
 
-© Noman Nadeem. Prepared for personal learning and interview preparation.
+© Noman Nadeem. Written as a personal learning and reference guide.
 
 The code examples are based on the public APIs of WordPress, WooCommerce, ACF and Elementor. Check the current official documentation before using any of it in a live project, because those APIs change.
 
